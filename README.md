@@ -1,3 +1,7 @@
+## Result
+falcon7b
+![tts](./falcon7b.png)
+
 ## How to get watsonx API key and Project ID
 
 Here, we initialize a language model and its embeddings. Here's a brief description of each section of the script:
